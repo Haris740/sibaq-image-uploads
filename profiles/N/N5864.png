@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Sibaq-25 (Admin)" />
+    <link rel="manifest" href="/img/site.webmanifest" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/mingcute_icon@2.9.5/font/Mingcute.min.css"
+      rel="stylesheet"
+    />
+    <title>Sibaq - 2025 (Admin)</title>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-M4ZTSTLXNG"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-M4ZTSTLXNG");
+    </script>
+    <script type="module" crossorigin src="/assets/index-DC4xw9qG.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CtgX945y.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
